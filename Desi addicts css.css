@@ -1,0 +1,52 @@
+body{
+      background-image:url(file:///D:/IMG_20210625_212057.jpg);
+	  background-repeat:no-repeat;
+	  background-size:1400px;
+	  color:yellow;
+	  }
+.nav-main{
+ width:100px;
+height:60px;
+background-color:black;
+display:flex;
+flex-wrap:wrap;
+}
+.btn-toggle-nav{
+	width:60px;
+	height:100px;
+	background-position:center;
+	cursor:pointer;
+}
+.nav-main ul{
+	display:flex;
+	flex-wrap:wrap;
+	padding-left:150x;
+}
+ p{color:White;
+    font-family:arial;
+	}
+h5{
+	color:white;
+	font-family:arial;
+}
+	div{
+	 color:white;
+	}
+	h2{
+	color:Brown;
+	}
+  
+  a{
+      color:white;
+	   font-family:italic;
+	   line-height:34%;
+	   }
+	   a:visited{
+	   color:green;
+	   }
+	   a:hover{
+	   background-color:black;
+	   color:white;
+	   text-decorate:underline;
+	   font-weight:bold;
+	   }
